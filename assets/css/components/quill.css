@@ -1,0 +1,11 @@
+.ql-editor.ql-editor-no-padding {
+  padding: 0;
+}
+
+.ql-editor a {
+  @apply text-yellow-500;
+}
+
+.ql-editor a:hover {
+  @apply text-yellow-600;
+}
